@@ -24,8 +24,10 @@ system.debug('Net Present Value with a discount rate of ' + discRate + ' is:' + 
 ```
 
 The above will output in the Debug Console
-`Internal Rate of Return is approximately :0.16`
-`Net Present Value with a discount rate of 0.10 is:434.2094088464654`
+```
+Internal Rate of Return is approximately :0.16`
+Net Present Value with a discount rate of 0.10 is:434.2094088464654
+```
 
 ## Modification
 ### Decimal Precision
